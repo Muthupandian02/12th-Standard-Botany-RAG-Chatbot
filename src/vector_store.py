@@ -1,10 +1,7 @@
-from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone, ServerlessSpec
+from langchain_pinecone import PineconeVectorStore
 from dotenv import load_dotenv
 import os
-from langchain_core.documents import Document
-from typing import List
-
 load_dotenv(override=True)
 
 
