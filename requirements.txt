@@ -4,7 +4,7 @@ langchain-core
 langchain-community
 langchain-pinecone
 langchain-groq
-pinecone-client==3.2.2
+pinecone>=3.0.0
 python-dotenv
 pypdf
 sentence-transformers
