@@ -10,3 +10,4 @@ pypdf
 sentence-transformers
 torch
 pinecone
+torchvision
