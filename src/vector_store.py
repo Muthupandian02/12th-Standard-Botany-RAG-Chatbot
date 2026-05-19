@@ -1,3 +1,4 @@
+import pinecone
 from pinecone import Pinecone, ServerlessSpec
 from langchain_pinecone import PineconeVectorStore
 from dotenv import load_dotenv
